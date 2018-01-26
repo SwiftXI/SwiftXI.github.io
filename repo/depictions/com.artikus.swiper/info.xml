@@ -1,10 +1,11 @@
 <package>
 	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<name>Swipe</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>10.3.3</maxiOS>
+			<miniOS>10.3.1</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Swipe brings the iPhone X Lock screen design on older devices. It comes with a camera shortcut, torch shortcut, and the swipe bar from the iPhone X.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
